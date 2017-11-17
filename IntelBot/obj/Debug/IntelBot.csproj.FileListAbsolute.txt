@@ -1,0 +1,15 @@
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\bin\Debug\IntelBot.exe.config
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\bin\Debug\IntelBot.exe
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\bin\Debug\IntelBot.pdb
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\obj\Debug\IntelBot.csprojResolveAssemblyReference.cache
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\obj\Debug\IntelBot.Form1.resources
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\obj\Debug\IntelBot.Properties.Resources.resources
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\obj\Debug\IntelBot.csproj.GenerateResource.Cache
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\obj\Debug\IntelBot.csproj.CoreCompileInputs.cache
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\obj\Debug\IntelBot.exe
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\obj\Debug\IntelBot.pdb
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\bin\Debug\robot-2192617_640.ico
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\bin\Debug\IntelBot.exe.manifest
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\bin\Debug\IntelBot.application
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\obj\Debug\IntelBot.exe.manifest
+C:\Users\Gerrit\source\repos\IntelBotUI\IntelBot\obj\Debug\IntelBot.application
